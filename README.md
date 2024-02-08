@@ -1,6 +1,6 @@
 
 
-***For Lab Assignment 2***
+***Lab Assignment 2***
 
 Part 1: Separating Even and Odd Numbers
 File: EvenOddArrays.java
