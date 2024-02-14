@@ -53,3 +53,9 @@ Class StudentDemo :
 • Creates a StudentDetails object.
 
 • Provides a menu-driven interface for the user to interact with the student management system.
+
+***Lab Assignment 6***
+
+Part 1: This code consists of two classes: Main and Result. The Main class contains the main method, which is the entry point of the program. It takes user input for the student's name, roll number, mark 1, and mark 2. It then creates an object of the Result class, passing the user input as arguments. The Result class extends the Student class and implements the InterfaceExam interface. It has two methods: displayExamDetails and Percent_cal.
+
+Part 2: This code consists of two classes: Main and Result. The Main class contains the main method, which is the entry point of the program. It takes user input for the student's name, roll number, mark 1, and mark 2. It then creates an object of the Result class, passing the user input as arguments. The Result class extends the Student class and implements the InterfaceExam interface. It has two methods: displayExamDetails and Percent_cal.
