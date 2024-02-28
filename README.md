@@ -59,3 +59,9 @@ Class StudentDemo :
 Part 1: This code consists of two classes: Main and Result. The Main class contains the main method, which is the entry point of the program. It takes user input for the student's name, roll number, mark 1, and mark 2. It then creates an object of the Result class, passing the user input as arguments. The Result class extends the Student class and implements the InterfaceExam interface. It has two methods: displayExamDetails and Percent_cal.
 
 Part 2: This code consists of two classes: Main and Result. The Main class contains the main method, which is the entry point of the program. It takes user input for the student's name, roll number, mark 1, and mark 2. It then creates an object of the Result class, passing the user input as arguments. The Result class extends the Student class and implements the InterfaceExam interface. It has two methods: displayExamDetails and Percent_cal.
+
+***Lab Assignment 5***
+
+Part 1: This program implements Circle, Triangle, and Rectangle classes inheriting a Shape interface with area() and perimeter() methods. Each shape calculates its specific area and perimeter based on its attributes. Users can select a shape, input parameters, and see calculated area and perimeter.
+
+Part 2: This program simulates an employee payroll system. It defines abstract "Employee" with common details and getter/setter methods. "NormalEmployee" and "BonusEmployee" subclasses inherit Employee and implement their own "theMonthly()" method to calculate net salary based on provided details like gross wage, working days, etc. The "Main" class interacts with users, determines employee type based on bonus, creates the appropriate class object, calculates net salary using "theMonthly()", and prints the payslip using "printPaySlip()".
