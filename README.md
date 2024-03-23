@@ -75,3 +75,12 @@ The Card class represents individual cards with fields for rank and suit, along 
 The Deck class manages a collection of Card objects using a dynamic array. It has methods for creating a standard deck of 52 cards, displaying a menu for user interaction, printing all cards in the deck, shuffling the deck, drawing a card, emptying the deck, printing a specific card, comparing cards, checking if two cards are the same, finding a card in the deck based on rank and suit, dealing a hand of five cards, and sorting the deck.
 
 The main class initializes a Deck object, populates it with cards, and displays a menu for the user to interact with the deck.
+
+
+***Lab Assignment 7***
+
+Rational Calculator (assignment7_part1): This software implements a rational number class (RationalNumber) to carry out basic arithmetic operations like addition, subtraction, multiplication, and division on rational numbers. It accepts four command-line arguments representing two rational numbers and performs various operations between them. Instructions for usage: java RationalCalculator
+
+Factorial Calculator (assignment7_part2): This application computes the factorial of a provided number within the range of 0 to 15. It raises a custom exception, FactorialException, if the input number falls outside this range. Instructions for usage: java assignment7_part2 ...
+
+String Matcher (assignment7_part3): This program requests the user to input a string and verifies if it matches the string "India". It throws a custom exception NOMATCHEXCP if the input string does not correspond to "India". No command-line arguments are necessary for usage.
