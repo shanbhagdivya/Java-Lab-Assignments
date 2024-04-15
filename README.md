@@ -84,3 +84,8 @@ Rational Calculator (assignment7_part1): This software implements a rational num
 Factorial Calculator (assignment7_part2): This application computes the factorial of a provided number within the range of 0 to 15. It raises a custom exception, FactorialException, if the input number falls outside this range. Instructions for usage: java assignment7_part2 ...
 
 String Matcher (assignment7_part3): This program requests the user to input a string and verifies if it matches the string "India". It throws a custom exception NOMATCHEXCP if the input string does not correspond to "India". No command-line arguments are necessary for usage.
+
+
+***JDBC***
+
+The "Main" Java program demonstrates how to establish connections to MongoDB, Oracle, and PostgreSQL databases using JDBC and the MongoDB Java driver. The code provides connection details for each database, including URLs, usernames, and passwords. Upon execution, the program attempts to connect to each database and outputs success messages if the connections are established, or error messages if any connection fails. It's essential to ensure that the respective databases are running and accessible with the provided credentials. Additionally, for security reasons, consider using strong passwords and avoiding hardcoding sensitive information directly in the source code.
