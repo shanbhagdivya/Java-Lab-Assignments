@@ -84,3 +84,8 @@ Rational Calculator (assignment7_part1): This software implements a rational num
 Factorial Calculator (assignment7_part2): This application computes the factorial of a provided number within the range of 0 to 15. It raises a custom exception, FactorialException, if the input number falls outside this range. Instructions for usage: java assignment7_part2 ...
 
 String Matcher (assignment7_part3): This program requests the user to input a string and verifies if it matches the string "India". It throws a custom exception NOMATCHEXCP if the input string does not correspond to "India". No command-line arguments are necessary for usage.
+
+
+***Lab Assignment 9***
+
+The provided Java code demonstrates creating, starting, and manipulating a thread using the 'Thread' class. It sets and retrieves the thread's name and priority, checks its liveness, and pauses the main thread for 2 seconds before checking the thread's liveness again. This code serves as a concise educational example illustrating basic thread management functionalities in Java.
