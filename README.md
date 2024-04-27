@@ -89,3 +89,8 @@ String Matcher (assignment7_part3): This program requests the user to input a st
 ***Lab Assignment 9***
 
 The provided Java code demonstrates creating, starting, and manipulating a thread using the 'Thread' class. It sets and retrieves the thread's name and priority, checks its liveness, and pauses the main thread for 2 seconds before checking the thread's liveness again. This code serves as a concise educational example illustrating basic thread management functionalities in Java.
+
+
+***Lab Assignment 8 and 10***
+
+This Java-based application simplifies the management of employee details by providing a user-friendly interface built with JavaFX. Users can effortlessly input employee information such as ID, name, age, email, and department via intuitive text fields. Before registration, users have the option to create an employee table for organized data management. The system enables users to view a list of registered employees and update their information based on Employee ID, ensuring accuracy and efficiency in employee data management.
